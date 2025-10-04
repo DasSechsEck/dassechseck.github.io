@@ -1,7 +1,7 @@
 /*BEGIN PS5 Controller Styling*/
 
 .controller.ds4 {
-    background: url(https://imgur.com/yrgcr9f.png);
+    background: url(https://imgur.com/Wsd7fMc.png);
     height: 713px;
     width: 903px;
     position: absolute;
@@ -23,7 +23,7 @@
 .ds4 .trigger {
     width: 117px;
     height: 107;
-    background: url(https://imgur.com/8MzFcNv.png);	opacity: 0;
+    background: url(https://imgur.com/BBLtQ6L.png);	opacity: 0;
 }
 
 .ds4 .trigger.left {
@@ -156,7 +156,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://imgur.com/O7ycwrZ.png);	
+    background: url(https://imgur.com/rXpLUPg.png);	
     height: 106px;
     width: 106px;
 }
@@ -221,3 +221,4 @@
 }
 
 /*END PS5 Controller Styling*/
+
