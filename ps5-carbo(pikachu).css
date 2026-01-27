@@ -90,7 +90,7 @@
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://imgur.com/Uvr7uX9.png);	width: 25px;
+    background: url(.png);	width: 25px;
     height: 41px;
     opacity: 0;
 }
