@@ -1,14 +1,14 @@
 /*BEGIN PS5 Controller Styling*/
 
 .controller.ds4 {
-    background: url(https://imgur.com/huEpHK5.png);
+    background: url(https://imgur.com/S58S3SH.png);
     height: 713px;
     width: 903px;
     position: absolute;
 }
 
 .ds4.disconnected {
-    background: url(https://imgur.com/huEpHK5.png);}
+    background: url(https://imgur.com/S58S3SH.png);}
 
 .ds4.disconnected div {
     display: none;
@@ -23,7 +23,7 @@
 .ds4 .trigger {
     width: 117px;
     height: 107;
-    background: url(https://imgur.com/BBLtQ6L.png);	opacity: 0;
+    background: url(https://imgur.com/6Oap1OX.png);	opacity: 0;
 }
 
 .ds4 .trigger.left {
@@ -38,7 +38,7 @@
 .ds4 .bumper {
     width: 119px;
     height: 41px;
-    background: url(https://imgur.com/VSdHQMG.png) no-repeat;	opacity: 0;
+    background: url(https://imgur.com/luHtrhS.png) no-repeat;	opacity: 0;
 }
 
 .ds4 .bumpers {
@@ -120,7 +120,7 @@
     position: absolute;
     width: 58px;
     height: 58px;
-    background: url(https://imgur.com/TWRl3j3.png);}
+    background: url(https://imgur.com/Xg8MVqD.png);}
 
 .ds4 .button.pressed {
     background-position-y: 58px;
@@ -156,7 +156,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://imgur.com/HvPSmhT.png);	
+    background: url(https://imgur.com/4B3mLF5.png);	
     height: 106px;
     width: 106px;
 }
@@ -182,7 +182,7 @@
 }
 
 .ds4 .face {
-    background: url(https://imgur.com/5z63tkE.png);
+    background: url(https://imgur.com/1KYLytM.png);
     position: absolute;
 }
 
