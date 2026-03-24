@@ -23,7 +23,7 @@
 .ds4 .trigger {
     width: 117px;
     height: 107;
-    background: url(https://imgur.com/ZvZWDgJ.png);	opacity: 0;
+    background: url(https://imgur.com/vBCcMjU.png);	opacity: 0;
 }
 
 .ds4 .trigger.left {
@@ -38,7 +38,7 @@
 .ds4 .bumper {
     width: 119px;
     height: 41px;
-    background: url(https://imgur.com/vBCcMjU.png) no-repeat;	opacity: 0;
+    background: url(https://imgur.com/ZvZWDgJ.png) no-repeat;	opacity: 0;
 }
 
 .ds4 .bumpers {
